@@ -31,8 +31,11 @@ The main goal for this project is to improve run time for large datasets with mo
 
 ### Files:
 
-pkmeans.py   
+#### pkmeans.py   
 Contains the code to sequential and parallel implementations of the K-Means algorithm.
 
-Data    
+#### Data    
 Datasets used are stored in the data folder. Make sure download code with data for proper execution.
+
+#### PK-Means - Report & PK-Means - Presentation   
+Explaination about the project and how it was executed
